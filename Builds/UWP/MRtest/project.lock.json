@@ -15893,12 +15893,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaowe\\Documents\\MRtest\\Builds\\UWP\\MRtest\\MRtest.csproj",
+      "projectUniqueName": "C:\\Users\\gaowe\\Documents\\GitHub\\NeuroLearner\\Builds\\UWP\\MRtest\\MRtest.csproj",
       "projectName": "MRtest",
-      "projectPath": "C:\\Users\\gaowe\\Documents\\MRtest\\Builds\\UWP\\MRtest\\MRtest.csproj",
-      "projectJsonPath": "C:\\Users\\gaowe\\Documents\\MRtest\\Builds\\UWP\\MRtest\\project.json",
+      "projectPath": "C:\\Users\\gaowe\\Documents\\GitHub\\NeuroLearner\\Builds\\UWP\\MRtest\\MRtest.csproj",
+      "projectJsonPath": "C:\\Users\\gaowe\\Documents\\GitHub\\NeuroLearner\\Builds\\UWP\\MRtest\\project.json",
       "packagesPath": "C:\\Users\\gaowe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaowe\\Documents\\MRtest\\Builds\\UWP\\MRtest\\obj\\",
+      "outputPath": "C:\\Users\\gaowe\\Documents\\GitHub\\NeuroLearner\\Builds\\UWP\\MRtest\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\gaowe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -15911,11 +15911,11 @@
       "frameworks": {
         "uap10.0.10240": {
           "projectReferences": {
-            "C:\\Users\\gaowe\\Documents\\MRtest\\Builds\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
-              "projectPath": "C:\\Users\\gaowe\\Documents\\MRtest\\Builds\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
+            "C:\\Users\\gaowe\\Documents\\GitHub\\NeuroLearner\\Builds\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+              "projectPath": "C:\\Users\\gaowe\\Documents\\GitHub\\NeuroLearner\\Builds\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj"
             },
-            "C:\\Users\\gaowe\\Documents\\MRtest\\Builds\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
-              "projectPath": "C:\\Users\\gaowe\\Documents\\MRtest\\Builds\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
+            "C:\\Users\\gaowe\\Documents\\GitHub\\NeuroLearner\\Builds\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
+              "projectPath": "C:\\Users\\gaowe\\Documents\\GitHub\\NeuroLearner\\Builds\\UWP\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
             }
           }
         }

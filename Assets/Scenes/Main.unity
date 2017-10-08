@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657868, g: 0.49641263, b: 0.57481706, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -167,7 +167,7 @@ GameObject:
   - component: {fileID: 616406125}
   - component: {fileID: 616406124}
   m_Layer: 5
-  m_Name: Image
+  m_Name: Profile
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -202,6 +202,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41855117275ef4e65841b0b4dfefce70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Profile: {fileID: 616406122}
 --- !u!114 &616406125
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -536,7 +537,7 @@ Prefab:
     - target: {fileID: 114000013159681914, guid: c92aa1db800800042875a66448187050,
         type: 2}
       propertyPath: OnDownEvent.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
-      value: 5
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 114000013159681914, guid: c92aa1db800800042875a66448187050,
         type: 2}
@@ -551,7 +552,7 @@ Prefab:
     - target: {fileID: 114000013159681914, guid: c92aa1db800800042875a66448187050,
         type: 2}
       propertyPath: OnDownEvent.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: set_tag
+      value: OnSubmit
       objectReference: {fileID: 0}
     - target: {fileID: 114000013159681914, guid: c92aa1db800800042875a66448187050,
         type: 2}

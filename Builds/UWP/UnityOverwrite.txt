@@ -9,7 +9,7 @@ MRtest.sln: modified
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 GeneratedProjects\UWP\Assembly-CSharp-firstpass\project.json: 4FCF72A4D5EDB37E24C206A7BCFE7AF1
 MRtest\App.cs: 5EE45C93A2266576B90AEA6164386BD4
-MRtest\MRtest.csproj: E006F162349AC3488D1FF8E14F7A8859
+MRtest\MRtest.csproj: 5685B216881E57C567634C0E8DFEB313
 MRtest\MRtest.csproj.user: modified
 MRtest\Package.appxmanifest: 5D63435BACA9C9386BADC3C6497CF811
 MRtest\project.json: 1D02BC64BAC0D041019673A1C4C51737
@@ -19,13 +19,6 @@ MRtest\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
 MRtest\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
 MRtest\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
 MRtest\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-MRtest\bin\x86\Release\AppX\Assets\SplashScreen.scale-200.png: 60618416282ED104FD1473935716045D
-MRtest\bin\x86\Release\AppX\Assets\Square150x150Logo.scale-200.png: E02834B4A5DFB97FF8E212C1CACBB084
-MRtest\bin\x86\Release\AppX\Assets\Square44x44Logo.scale-200.png: 6C6EF27184ABE9D870A9D564953775DE
-MRtest\bin\x86\Release\AppX\Assets\Square44x44Logo.targetsize-24_altform-unplated.png: 156637F7B5363E983E7A46D8E533A23D
-MRtest\bin\x86\Release\AppX\Assets\StoreLogo.png: 90BD194CA4A7CFFF3E8B8222229857FB
-MRtest\bin\x86\Release\AppX\Assets\Wide310x150Logo.scale-200.png: C96846A80DF667F87355569CD816192D
-MRtest\bin\x86\Release\AppX\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826
 MRtest\obj\x86\Release\MRtest.csproj.CopyComplete: D41D8CD98F00B204E9800998ECF8427E
 MRtest\Properties\AssemblyInfo.cs: 19C987564F7827E8AE4B5C2681805B76
 MRtest\Properties\Default.rd.xml: 72EB282657164E79A1C42F6240984826

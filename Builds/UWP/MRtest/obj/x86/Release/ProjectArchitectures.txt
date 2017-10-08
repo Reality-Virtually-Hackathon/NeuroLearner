@@ -1,4 +1,4 @@
-C:\Users\gaowe\Documents\MRtest\Builds\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
-C:\Users\gaowe\Documents\MRtest\Builds\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
-C:\Users\gaowe\Documents\MRtest\Builds\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
-C:\Users\gaowe\Documents\MRtest\Builds\UWP\MRtest\MRtest.csproj;x86
+C:\Users\gaowe\Documents\GitHub\NeuroLearner\Builds\UWP\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\gaowe\Documents\GitHub\NeuroLearner\Builds\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\gaowe\Documents\GitHub\NeuroLearner\Builds\UWP\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\gaowe\Documents\GitHub\NeuroLearner\Builds\UWP\MRtest\MRtest.csproj;x86
