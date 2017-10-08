@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>MRtest</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\gaowe\Documents\MRtest\Builds\UWP\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\gaowe\Documents\MRtest\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity 2017.1.1f1\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
